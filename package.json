@@ -1,0 +1,25 @@
+{
+  "name": "skycatch-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.468.0",
+    "exif": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node cli.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonensh/skycatch-challenge.git"
+  },
+  "author": "Gonen Shoham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonensh/skycatch-challenge/issues"
+  },
+  "homepage": "https://github.com/gonensh/skycatch-challenge#readme"
+}
